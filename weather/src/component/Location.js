@@ -6,7 +6,6 @@ export const Location = () => {
   return (
     <div className="location">
       <h1 className="location-timezone">{weather.timezone}</h1>
-      <p>icon</p>
     </div>
   );
 };
